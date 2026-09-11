@@ -4,7 +4,7 @@ An interactive 3D recreation of my Liberty University diploma, rendered in the b
 
 I graduated from Liberty University with a Bachelor of Science in Computer Science (Cybersecurity), and I wanted to do something more with my diploma than let it sit in a drawer. So I rebuilt it digitally — the leather presentation folder, the gold seal, the certificate — as an object you can pick up, rotate, open, and inspect from any angle. A small keepsake I can actually share.
 
-**Live:** https://spairkie.github.io/interactive-diploma/
+**Live:** https://builtbysai.github.io/interactive-diploma/
 
 > A personal portfolio and keepsake project. This is not an official digital credential, a verification document, or a replacement for institutional records.
 
