@@ -6,7 +6,17 @@ I graduated from Liberty University with a Bachelor of Science in Computer Scien
 
 **Live:** https://builtbysai.github.io/interactive-diploma/
 
+<img src="assets/hero.svg" alt="Interactive Diploma — live WebGL render of the 3D diploma" width="720">
+
 > A personal portfolio and keepsake project. This is not an official digital credential, a verification document, or a replacement for institutional records.
+
+## Screenshots
+
+Real captures from the deployed app (WebGL, no mockups):
+
+| Front view | Orbited view |
+|---|---|
+| <img src="assets/scene-front.png" alt="Interactive Diploma — front view of the open 3D diploma" width="380"> | <img src="assets/scene-orbit.png" alt="Interactive Diploma — tilted orbit view showing 3D depth" width="380"> |
 
 ## Features
 
